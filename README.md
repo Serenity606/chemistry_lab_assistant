@@ -1,4 +1,5 @@
-# Chemistry Lab AssistantA lab management tool I built to track compounds, experiments, and reactions.
+# Chemistry Lab Assistant
+A lab management tool I built to track compounds, experiments, and reactions.
 ## What It Does
 
 - Add and track chemical compounds (name, formula, quantity, location)
