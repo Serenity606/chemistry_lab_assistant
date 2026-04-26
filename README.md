@@ -18,17 +18,12 @@ I wanted a practical project that combined data management with something I'm in
 - HTML/CSS/JavaScript
 - JSON file storage (SQLite coming later)
 
-## What I Learned
-
-- How to structure a Flask app with multiple routes
-- How to persist data without a database (JSON files)
-- How to build a searchable inventory system
 
 ## What's Next
-Add user authentication
-Migrate to SQLite database
-Add export to CSV
-Deploy live demo
+- Add user authentication
+- Migrate to SQLite database
+- Add export to CSV
+- Deploy live demo
 
 ## Run It Locally
 
