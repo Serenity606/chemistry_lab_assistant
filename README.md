@@ -28,7 +28,7 @@ I wanted a practical project that combined data management with something I'm in
 ## Run It Locally
 
 ```bash
-git clone [your-repo-link]
-cd chemistry-lab-assistant
+git clone [repo-link]
+cd chemistry_lab_assistant
 pip install -r requirements.txt
 python app.py
